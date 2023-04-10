@@ -1,0 +1,1 @@
+Esto va en C:\Games\The Legend of Zelda - Breath of the Wild\cemu\mlc01\usr\save, dentro de la carpeta "save" estan los 0005000 y system

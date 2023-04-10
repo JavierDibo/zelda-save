@@ -1,0 +1,1 @@
+esto va en C:\Games\The Legend of Zelda - Breath of the Wild\cemu\shaderCache pegado "transferable" junto a "precompiled" y "driver"
